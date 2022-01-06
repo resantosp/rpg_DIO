@@ -18,12 +18,12 @@ namespace rpgPOO.source.Entities
 
         public override string ToString()
         {
-            return this.Name + " " + this.Level + " " + this.Race + " " + this.heroClass;
+            return "\nHERO " + this.Name + "\n\tLEVEL: " + this.Level + "\n\tRACE: " + this.Race + "\n\tCLASS: " + this.heroClass;
         }
 
         public virtual string Attack()
         {
-            return this.Name + " " + "Attacks";
+            return this.Name + " " + "Attacks with a FireBall";
         }
     }
 }

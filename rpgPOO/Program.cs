@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using rpgPOO.source.Entities;
 
+//PRÓXIMOS PASSOS:
+// 1. Mostrar um MENU de heróis
+// 2. Colocar a opção do usuário escolher o nome
+
 namespace rpgPOO
 {
     public class Program
@@ -14,14 +18,20 @@ namespace rpgPOO
             Cleric yosef = new Cleric("Yosef", 44, "Human", "Cleric");
             Knight durin = new Knight("Durin", 44, "Dwarf", "Knight");
 
-            Mage boss = new Mage("Maleficus", 99, "Human", "Mage");
+            System.Console.WriteLine("\n======== MENU DE HERÓIS =======");
+            System.Console.WriteLine(eldarion.ToString());
+            System.Console.WriteLine(lennora.ToString());
+            System.Console.WriteLine(yosef.ToString());
+            System.Console.WriteLine(durin.ToString());
+
+            //Mage boss = new Mage("Maleficus", 99, "Human", "Mage");
             
-            System.Console.WriteLine(eldarion.Attack(6));
-            System.Console.WriteLine(lennora.Attack());
-            System.Console.WriteLine(yosef.Attack());
-            System.Console.WriteLine(durin.Attack());
-            System.Console.WriteLine();
-            System.Console.WriteLine(boss.Attack(4));
+            // System.Console.WriteLine(eldarion.Attack(6));
+            // System.Console.WriteLine(lennora.Attack());
+            // System.Console.WriteLine(yosef.Attack());
+            // System.Console.WriteLine(durin.Attack());
+            // System.Console.WriteLine();
+            // System.Console.WriteLine(boss.Attack(4));
 
         }
     }
