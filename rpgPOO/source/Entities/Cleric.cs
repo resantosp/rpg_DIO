@@ -2,12 +2,13 @@ namespace rpgPOO.source.Entities
 {
     public class Cleric : Hero
     {
-         public Cleric(string Name, int Level, string Race, string heroClass) : base(Name, Level, Race, heroClass)
+         public Cleric(string Name, int Level, string Race, string heroClass, int HP) : base(Name, Level, Race, heroClass, HP)
         {
             this.Name = Name;
             this.Level = Level;
             this.Race = Race;
             this.heroClass = heroClass;
+            this.HP = HP;
         }
 
         public override string Attack()
