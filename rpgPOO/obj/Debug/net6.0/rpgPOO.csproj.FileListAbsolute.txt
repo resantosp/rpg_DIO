@@ -1,0 +1,15 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\bin\Debug\net6.0\rpgPOO.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\bin\Debug\net6.0\rpgPOO.deps.json
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\bin\Debug\net6.0\rpgPOO.runtimeconfig.json
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\bin\Debug\net6.0\rpgPOO.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\bin\Debug\net6.0\ref\rpgPOO.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\bin\Debug\net6.0\rpgPOO.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\obj\Debug\net6.0\rpgPOO.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\obj\Debug\net6.0\rpgPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\obj\Debug\net6.0\rpgPOO.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\obj\Debug\net6.0\rpgPOO.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\obj\Debug\net6.0\rpgPOO.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\obj\Debug\net6.0\rpgPOO.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\obj\Debug\net6.0\ref\rpgPOO.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\obj\Debug\net6.0\rpgPOO.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\rpg_DIO\rpgPOO\obj\Debug\net6.0\rpgPOO.genruntimeconfig.cache
