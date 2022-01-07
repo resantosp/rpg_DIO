@@ -4,8 +4,8 @@ using System.Linq;
 using rpgPOO.source.Entities;
 
 //PRÓXIMOS PASSOS:
-// 1. Mostrar um MENU de heróis
-// 2. Incluir HP e MP
+// 1. Mostrar um MENU de heróis                     FEITO
+// 2. Incluir HP e MP                               FEITO
 // 3. Colocar a opção do usuário escolher o nome
 
 namespace rpgPOO
